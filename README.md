@@ -26,7 +26,7 @@ Here's a selection of my latest projects:
      * Track prescription history and medication adherence over time.
    - 🛠️ Technologies Used:
      * Frontend: HTML, CSS, Bootstrap
-     * Backend: PHP (CodeIgniter)
+     * Backend: PHP (7.4.3)
      * Database: MySQL
      * JavaScript for interactive features
    - 🌐 Contact for demo.
