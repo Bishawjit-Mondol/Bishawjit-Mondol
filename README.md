@@ -4,7 +4,7 @@
 </p>
 
 # Hello, fellow developers! 👋
-## I'm Bishawjit 🙋
+## I'm Bishawjit 🙋‍♂️
 
 Welcome to my GitHub profile, where I bring code to life! I'm a seasoned web developer passionate about crafting beautiful and functional web applications. Here's a glimpse of my skills and projects:
 
