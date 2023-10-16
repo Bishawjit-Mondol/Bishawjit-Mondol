@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Bishawjit-Mondol/myImage/blob/main/me.jpg" alt="Bishawjit Mondol">
+  <img src="https://github.com/Bishawjit-Mondol/myImage/blob/main/joy_me.jpg" alt="Bishawjit Mondol">
 </p>
 
 # Hello, fellow developers! 👋
