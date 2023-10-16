@@ -25,7 +25,7 @@ Here's a selection of my latest projects:
      * Secure storage of prescription details, including medication names, dosages, and instructions.
      * Track prescription history and medication adherence over time.
    - 🛠️ Technologies Used:
-     * Frontend: HTML, CSS, Bootstrap
+     * Frontend: HTML5, CSS3, Bootstrap4
      * Backend: PHP (7.4.3)
      * Database: MySQL
      * JavaScript for interactive features
@@ -35,10 +35,10 @@ Here's a selection of my latest projects:
 
 I'm always open to connecting with fellow developers and potential collaborators. Feel free to reach out using your preferred platform:
 
-- 📧 **Email**: [![Email](https://img.shields.io/badge/Email-bishawjit2021%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishawjit2021@gmail.com)
-- 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bishawjit-mondol/)
-- 🌐 **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=web)](http://bishawjit.net/)
-- 📘 **Facebook**: [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/bishawjitme)
+- 📧 **Email**:      [![Email](https://img.shields.io/badge/Email-bishawjit2021%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishawjit2021@gmail.com)
+- 💼 **LinkedIn**:   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bishawjit-mondol/)
+- 🌐 **Portfolio**:  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=web)](http://bishawjit.net/)
+- 📘 **Facebook**:   [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/bishawjitme)
 
 Let's build something incredible together! 🚀
 
