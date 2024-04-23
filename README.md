@@ -29,7 +29,7 @@ Here's a selection of my latest projects:
      * Backend: PHP (7.4.3)
      * Database: MySQL
      * JavaScript for interactive features
-   - 🌐 Contact for demo.
+   - 🌐 Demo - https://smartprescription.hishabkitab.com/
 
 ## 📫 Let's Connect
 
